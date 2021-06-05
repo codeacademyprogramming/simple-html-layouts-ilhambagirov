@@ -1,0 +1,76 @@
+.header1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.section1{
+    border: 1cm,solid,black;
+}
+
+.fieldset1{
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 18px;
+    border-style: double; 
+    background-color: white;
+}
+body{
+    background-color: rgb(255, 255, 210);
+    box-sizing: border-box;
+}
+
+.personaldetails{
+    border-style: double;
+
+   font-size: 15px;
+}
+
+#iqid{
+    margin-bottom: -30px;
+}
+
+.personaldetails p{
+    margin-top: 0;
+}
+
+#birthday{
+    margin-top: 10px;
+}
+
+.personaldetails input{
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.fieldset2{
+    margin-top: 10px;
+    border-style: double;
+}
+.fieldset4{
+    margin-top: 10px;
+    border-style: double;
+}
+
+#essay1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btnfile{
+    background-color: red;
+    padding: 8px 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.btnfinal{
+    margin: 0 400px;
+    margin-right: 100px;
+   margin-top: 10px;
+   background-color: red;
+   padding: 10px 12px;
+   font-family: sans-serif;
+   color: white;
+   border-style: none;
+
+
+}
